@@ -1,6 +1,6 @@
 #### Hello and welcome to my GitHub profile!
 
-I am a computer science graduate with a passion for software development and technology. My primary areas of interest are software engineering, machine learning, and Cyber Security. I am actively seeking opportunities to collaborate with like-minded individuals and organizations in these domains.
+I am a computer science graduate with a passion for software development and technology.                             My primary areas of interest are software engineering, machine learning, and Cyber Security. I am actively seeking opportunities to collaborate with like-minded individuals and organizations in these domains.
 
 On this profile, you will find a collection of my personal projects, as well as contributions to open source projects. I believe that collaboration is the key to unlocking the full potential of technology, and I am always looking for ways to contribute to the community.
 
